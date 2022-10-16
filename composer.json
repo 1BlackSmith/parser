@@ -1,0 +1,16 @@
+{
+    "name": "smith/html-parser",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Smith\\HtmlParser\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pavel Smith",
+            "email": "1blacksmith.work@gmail.com"
+        }
+    ],
+    "require": {}
+}
